@@ -1,0 +1,9 @@
+# ninja log v5
+3	106	6973759337393156	CMakeFiles/Laboratorul_1.dir/main.c.obj	3528fe16543cce8
+106	213	6973759338379069	Laboratorul_1.exe	5217ac94814c603d
+3	72	6973734875740809	CMakeFiles/Laboratorul_1.dir/Matrice_de_incidenta.c.obj	cdd7df38067fb30b
+1	182	6973787227966337	build.ninja	258c9f6065940720
+3	133	6973787252000895	CMakeFiles/Laboratorul_1.dir/main.c.obj	3528fe16543cce8
+133	326	6973787253901959	Laboratorul_1.exe	5217ac94814c603d
+3	124	6973800160413347	CMakeFiles/Laboratorul_1.dir/main.c.obj	3528fe16543cce8
+124	244	6973800161547318	Laboratorul_1.exe	5217ac94814c603d

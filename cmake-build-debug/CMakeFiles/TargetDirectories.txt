@@ -1,0 +1,3 @@
+D:/gIK/Univer/Semestrul 2/Matematica discreta/Laboratorul_1/cmake-build-debug/CMakeFiles/Laboratorul_1.dir
+D:/gIK/Univer/Semestrul 2/Matematica discreta/Laboratorul_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/gIK/Univer/Semestrul 2/Matematica discreta/Laboratorul_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
